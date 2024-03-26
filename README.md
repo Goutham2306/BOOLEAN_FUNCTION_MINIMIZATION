@@ -31,22 +31,28 @@ Hardware – PCs, Cyclone II , USB flasher
 5.	For different input combinations generate the timing diagram.
 
 
-**Program:**
+## Program:
+
+![image](https://github.com/Goutham2306/BOOLEAN_FUNCTION_MINIMIZATION/assets/138971154/4591204b-57ec-45ef-a39d-4a90754e665e)
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:*/
+## Developed by: Goutham.K
+## RegisterNumber: 212223110019
 
 
-**RTL realization**
+## RTL realization
 
-**Output:**
+![image](https://github.com/Goutham2306/BOOLEAN_FUNCTION_MINIMIZATION/assets/138971154/ce56ccad-8d5e-4c77-b788-6195cb3045c6)
 
-**RTL**
+## Output:
+![image](https://github.com/Goutham2306/BOOLEAN_FUNCTION_MINIMIZATION/assets/138971154/7439be9f-93c3-4901-8df5-15420cd27760)
 
-**Timing Diagram**
+## Truth Table:
+![image](https://github.com/Goutham2306/BOOLEAN_FUNCTION_MINIMIZATION/assets/138971154/b3657b0f-d3f9-4ff5-8135-5ddec4b59d64)
 
-**Result:**
+
+## Result:
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
